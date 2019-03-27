@@ -1,2 +1,2 @@
-# Eat-Da-Burger-
+# EatDaBurger
 Eat-Da-Burger!
