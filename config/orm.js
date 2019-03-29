@@ -1,5 +1,5 @@
 // MySQL connection
-var connection = require("../config/connection.js");
+var connection = require("./connection.js");
 
 function printQuestionMarks(num) {
   var arr = [];
