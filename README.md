@@ -15,3 +15,10 @@ Enter a burger of choice, then devour it! NomNomNom
     <p>
     <img src= "images/terminal.png" style="width:500px;height:600px;">
     </p>
+
+<p></p>
+
+<p>Working from the LocalHost</p>
+    <p>
+    <video src= "images/EDB.webm">
+    </p>
