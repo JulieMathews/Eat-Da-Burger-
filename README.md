@@ -20,5 +20,4 @@ Enter a burger of choice, then devour it! NomNomNom
 
 <p>Working from the LocalHost</p>
     <p>
-    <video width="320" height="240" controls src="images/EDB.webm"></video>
-    </p>
+<a href="https://drive.google.com/file/d/18g58SzmGPZ8gs0K65GcCmhgECZvoilO3/view" target="_blank">Video of program working.</a>
